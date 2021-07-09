@@ -147,7 +147,7 @@ Developers can use this interface to indicate that your content is child-oriente
 
 ``` java
      //child-oriented
-     GrowsTarrySDK.setIsChildDirected(this, true);
+     GrowsTarrySDK.setIsChildDirected(this, false);
 ```
 Warning:
 1. It is recommended to call this interface before requesting advertisements.
